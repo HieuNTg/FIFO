@@ -1,2 +1,0 @@
-# FIFO
-Giải thuật FIFO
